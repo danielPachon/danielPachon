@@ -14,7 +14,7 @@ Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en dive
 ![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🚀 Frameworks & Library 🔝:
+### 🚀 Frameworks & Librerias 🔝:
 
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
