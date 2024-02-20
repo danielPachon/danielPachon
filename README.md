@@ -7,6 +7,10 @@ Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en dive
 
 # 💻 Algunas tecnologias que uso:
 
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEC-dev" />
+</p>
+
 ### ⚡ Base de Datos 🔝:
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,4 +72,11 @@ Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en dive
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### Otros :
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
