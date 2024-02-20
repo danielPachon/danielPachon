@@ -8,7 +8,7 @@ Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en dive
 # 💻 Algunas tecnologias que uso:
 
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEC-dev" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPachon" />
 </p>
 
 ### ⚡ Base de Datos 🔝:
