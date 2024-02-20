@@ -4,13 +4,6 @@
 
 Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en diversos proyectos utilizando las tecnologías MERN y MEAN, lo que me ha permitido adquirir experiencia en el desarrollo de aplicaciones desde la gestión de la base de datos hasta la creación de interfaces de usuario interactivas.
 
-
-# 💻 Algunas tecnologias que uso:
-
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPachon" />
-</p>
-
 ### ⚡ Base de Datos 🔝:
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
