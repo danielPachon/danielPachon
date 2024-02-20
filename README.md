@@ -2,7 +2,18 @@
 
 ¡Hola, mundo! Soy un apasionado desarrollador full stack con experiencia en las tecnologías MERN y MEAN. Con un enfoque en la creación de aplicaciones web robustas y escalables, me encanta explorar nuevas tecnologías y desafíos que me permitan mejorar mis habilidades y conocimientos.
 
-Durante mi trayectoria profesional, he tenido la oportunidad de trabajar en diversos proyectos utilizando las tecnologías MERN y MEAN, lo que me ha permitido adquirir experiencia en el desarrollo de aplicaciones desde la gestión de la base de datos hasta la creación de interfaces de usuario interactivas.
+**Además de mi experiencia en MERN y MEAN, también tengo capacidades en el despliegue de CI/CD.** Esto significa que puedo automatizar el proceso de construcción, prueba e implementación de mis aplicaciones, lo que me permite trabajar de manera más eficiente y entregar productos de alta calidad con mayor rapidez.
+
+**Mi experiencia abarca:**
+
+* **Desarrollo de aplicaciones web:** desde la gestión de la base de datos hasta la creación de interfaces de usuario interactivas.
+* **Tecnologías MERN y MEAN:** MongoDB, Express, React, Node.js, AngularJS, TypeScript, JavaScript.
+* **Despliegue de CI/CD:** Docker, Kubernetes.
+* **Metodologías ágiles:** Scrum, Kanban.
+
+**Estoy constantemente buscando nuevas oportunidades para aprender y crecer como desarrollador.** Me considero una persona proactiva, responsable y con capacidad para trabajar en equipo.
+
+**Si buscas un desarrollador full stack apasionado por su trabajo y con las habilidades necesarias para llevar tus proyectos al siguiente nivel, no dudes en contactarme.**
 
 ### ⚡ Base de Datos 🔝:
 
