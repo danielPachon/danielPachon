@@ -1,86 +1,92 @@
-# 👋 Hola, Soy Daniel Pachon
+<h1 align="center">Hi, I'm Daniel Pachón 👋</h1>
+<h3 align="center">Software Engineer · Full Stack · Data & AI</h3>
 
-¡Hola, mundo! Soy un apasionado desarrollador full stack con experiencia en las tecnologías MERN y MEAN. Con un enfoque en la creación de aplicaciones web robustas y escalables, me encanta explorar nuevas tecnologías y desafíos que me permitan mejorar mis habilidades y conocimientos.
+<p align="center">
+I build end-to-end software products that connect solid engineering with real business outcomes —<br>
+from APIs and web platforms to data pipelines and AI-powered features.
+</p>
 
-**Además de mi experiencia en MERN y MEAN, también tengo capacidades en el despliegue de CI/CD.** Esto significa que puedo automatizar el proceso de construcción, prueba e implementación de mis aplicaciones, lo que me permite trabajar de manera más eficiente y entregar productos de alta calidad con mayor rapidez.
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-steven-rodr%C3%ADguez-pachon-4a0690159/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-**Mi experiencia abarca:**
+---
 
-* **Desarrollo de aplicaciones web:** desde la gestión de la base de datos hasta la creación de interfaces de usuario interactivas.
-* **Tecnologías MERN y MEAN:** MongoDB, Express, React, Node.js, AngularJS, TypeScript, JavaScript.
-* **Despliegue de CI/CD:** Docker, Kubernetes.
-* **Metodologías ágiles:** Scrum, Kanban.
+## About me
 
-**Estoy constantemente buscando nuevas oportunidades para aprender y crecer como desarrollador.** Me considero una persona proactiva, responsable y con capacidad para trabajar en equipo.
+- 🧩 **Software Engineer** with a multidisciplinary profile: full stack development, software architecture, data analytics and AI.
+- 📊 Currently pursuing a **Specialization in Data Analytics**, focused on data processing, automation, machine learning and visualization.
+- 📡 Hands-on **telecommunications industry experience** (sales, customer retention, loyalty and churn recovery), which shapes how I design data and product solutions around real customer behavior.
+- 🎯 I care about clean architecture, readable code, automated testing and shipping products that solve measurable problems.
+- 🌍 Open to **remote opportunities** and roles in **Spain** and internationally.
 
-**Si buscas un desarrollador full stack apasionado por su trabajo y con las habilidades necesarias para llevar tus proyectos al siguiente nivel, no dudes en contactarme.**
+## What I work on
 
-### ⚡ Base de Datos 🔝:
+| Area | Focus |
+|---|---|
+| **Backend** | RESTful APIs, layered and modular architectures, authentication, relational and NoSQL data modeling |
+| **Frontend** | Responsive web apps with React and TypeScript, component-driven UI |
+| **Data & Analytics** | ETL pipelines, exploratory analysis, dashboards, business KPIs |
+| **AI / ML** | Predictive models (e.g. churn), LLM integrations, retrieval-augmented generation (RAG) |
+| **Cloud & DevOps** | AWS, Docker, CI/CD with GitHub Actions |
 
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech stack
 
-### 🚀 Frameworks & Librerias 🔝:
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
-![](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
-![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### 🖍 Diseño 🔝:
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)
-![](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 👩‍💻 Lenguajes 🔝:
+**Data & AI**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 💻 OS 🔝:
+## Featured projects
 
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+> 🚧 Rebuilding my portfolio from scratch with production-grade projects. Each one includes documentation, tests, CI and a live demo.
 
-### Otros :
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| **Churn Prediction API** | ML model that predicts customer churn in telecom and serves predictions through a REST API | Python · scikit-learn · FastAPI · Docker | 🔨 In progress |
+| **Sales CRM** | Lightweight CRM for sales advisors: pipeline, follow-ups and performance dashboards | Django · React · PostgreSQL | 📅 Planned |
+| **RAG Assistant** | Chatbot that answers questions grounded on internal documents | Python · LangChain · pgvector · React | 📅 Planned |
 
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<!-- Replace the table above with pinned repositories once they are published -->
 
+## Currently
+
+- 🔭 Building a **customer churn prediction** project end-to-end, from data exploration to deployment.
+- 🌱 Deepening my skills in **data engineering, MLOps and LLM applications**.
+- 🤝 Open to collaborating on projects involving **data, AI and product development**.
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="center"><i>Let's build something that matters. Feel free to reach out on LinkedIn.</i></p>
