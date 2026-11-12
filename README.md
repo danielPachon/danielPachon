@@ -68,11 +68,10 @@ from APIs and web platforms to data pipelines and AI-powered features.
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **Churn Prediction API** | ML model that predicts customer churn in telecom and serves predictions through a REST API | Python · scikit-learn · FastAPI · Docker | 🔨 In progress |
+| **[Task Manager API](https://github.com/danielPachon/task-manager-api)** | REST API with JWT auth, filtering, pagination, integration tests and CI | Node.js · TypeScript · Express · PostgreSQL · Docker | ✅ [Live demo](https://task-manager-api-0uhq.onrender.com/docs) |
+| **Churn Prediction API** | ML model that predicts customer churn in telecom and serves predictions through a REST API | Python · scikit-learn · FastAPI · Docker | 📅 Planned |
 | **Sales CRM** | Lightweight CRM for sales advisors: pipeline, follow-ups and performance dashboards | Django · React · PostgreSQL | 📅 Planned |
 | **RAG Assistant** | Chatbot that answers questions grounded on internal documents | Python · LangChain · pgvector · React | 📅 Planned |
-
-<!-- Replace the table above with pinned repositories once they are published -->
 
 ## Currently
 
