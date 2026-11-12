@@ -68,7 +68,7 @@ from APIs and web platforms to data pipelines and AI-powered features.
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **[Task Manager API](https://github.com/danielPachon/task-manager-api)** | REST API with JWT auth, filtering, pagination, integration tests and CI | Node.js · TypeScript · Express · PostgreSQL · Docker | ✅ [Live demo](https://task-manager-api-0uhq.onrender.com/docs) |
+| **[Task Manager](https://github.com/danielPachon/task-manager-web)** | Full stack Kanban app: React frontend with drag and drop, plus a REST API with JWT auth, tests and CI ([API repo](https://github.com/danielPachon/task-manager-api)) | React · TypeScript · Node.js · Express · PostgreSQL | ✅ [Live demo](https://task-manager-web-cn5q.onrender.com) |
 | **Churn Prediction API** | ML model that predicts customer churn in telecom and serves predictions through a REST API | Python · scikit-learn · FastAPI · Docker | 📅 Planned |
 | **Sales CRM** | Lightweight CRM for sales advisors: pipeline, follow-ups and performance dashboards | Django · React · PostgreSQL | 📅 Planned |
 | **RAG Assistant** | Chatbot that answers questions grounded on internal documents | Python · LangChain · pgvector · React | 📅 Planned |
